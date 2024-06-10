@@ -1,6 +1,6 @@
 export function participantTemplate(count) {
     return `
-      <section class="participant" id="participant${count}">
+      <section class="participant${count}">
         <p>Participant ${count}</p>
         <div class="item">
           <label for="fname${count}"> First Name<span>*</span></label>

@@ -1,4 +1,4 @@
-import { participantTemplate, successTemplate } from './templates.js';
+import { participantTemplate, successTemplate } from './Templates.js';
 
 let participantCount = 1;
 
